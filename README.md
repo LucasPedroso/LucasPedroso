@@ -1,4 +1,7 @@
-### Hi there 👋
+### Atualmente estudando na **Trybe** para alinhar os conhecimentos com o mercado de trabalho.
+### Atualizando-se sempre com conteúdos, cursos, imersões em tecnologias atuais.
+
+# #VQV
 
 <!--
 **LucasPedroso/LucasPedroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
