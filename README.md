@@ -1,5 +1,5 @@
-### Estudei na **Trybe** para alinhar os conhecimentos com o mercado de trabalho.
-### Atualizando-se sempre com conteúdos, cursos, imersões em tecnologias atuais.
+### Autodidata
+
 
 # #VQV
 
